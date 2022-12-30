@@ -13,7 +13,7 @@ const Netflix = () => {
                 <img className="w-full h-full object-cover" src={`https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/netflixteaser.png`} alt="" />
                 <div className="absolute top-[30%] w-full">
                     <div className="flex flex-col text-center">
-                        <h1 className="text-3xl sm:text-4xl md:text-6xl md:px-[200px]">Chương trình truyền hình, phim không giới hạn và nhiều nội dung khác.</h1>
+                        <h1 className="text-3xl sm:text-4xl md:text-6xl md:px-[100px]">Chương trình truyền hình, phim không giới hạn và nhiều nội dung khác.</h1>
                         <p className="text-2xl font-normal py-3">Xem ở mọi nơi. Hủy bất kỳ lúc nào.</p>
                         <p className="text-gray-100 px-1">Bạn đã sẵn sàng xem chưa? Nhập email để tạo hoặc kích hoạt lại tư cách thành viên của bạn.</p>
                     </div>
